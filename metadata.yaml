@@ -1,0 +1,30 @@
+_repo: A-Vanished-Arcadia-Being-Some-Account-of-the-Jesuits-in-Paraguay-1607-1767_1479
+creator:
+  author:
+    agent_name: Cunninghame Graham, R. B. (Robert Bontine)
+    aliases:
+    - Graham, R. B. Cunninghame (Robert Bontine Cunninghame)
+    - Cunninghame-Graham, Robert Bontine
+    - Graham, Robert Bontine Cunninghame
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '644'
+    url: http://www.gutenberg.org/2009/agents/644
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Cunninghame-Graham
+description: It was Cunninghame Graham's passionate attachment to justice that drew
+  his to tell the story behind the iniquitous destruction of the Jesuit missions in
+  South America. (back cover.).
+gutenberg_issued: '1998-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1479'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2661'
+- !lcsh 'Jesuits -- Paraguay'
+- !lcsh 'Paraguay -- History -- To 1811'
+title: 'A Vanished Arcadia: Being Some Account of the Jesuits in Paraguay 1607-1767'
+url: http://www.gutenberg.org/ebooks/1479
