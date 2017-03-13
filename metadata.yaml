@@ -1,5 +1,8 @@
 _repo: A-Vanished-Arcadia-Being-Some-Account-of-the-Jesuits-in-Paraguay-1607-1767_1479
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cunninghame Graham, R. B. (Robert Bontine)
@@ -15,6 +18,8 @@ creator:
 description: It was Cunninghame Graham's passionate attachment to justice that drew
   his to tell the story behind the iniquitous destruction of the Jesuit missions in
   South America. (back cover.).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1479#A-Vanished-Arcadia-Being-Some-Account-of-the-Jesuits-in-Paraguay-1607-1767
 gutenberg_issued: '1998-10-01'
 gutenberg_type: Text
 identifiers:
